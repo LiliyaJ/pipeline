@@ -1,6 +1,5 @@
 import json
-#import plotly
-import chart_studio.plotly as py
+import plotly
 import pandas as pd
 
 from nltk.stem import WordNetLemmatizer
