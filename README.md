@@ -12,7 +12,7 @@
 
 
 #### <a name="ProjectMotivation">Project Motivation ####
-To take part in the project has helped me to understand how the process of data is cleaned, normalized and prepared, Machine Learning Pipeline is tuned and used for getting the valuable output.
+To take part in the project has helped me to understand how data is cleaned, normalized and prepared before get them into work, how Machine Learning Pipeline is tuned and used for getting the valuable outputs.
 
 ### <a name="Introduction">Introduction ####
 This repository contains code for a web app which an emergency worker could use during a disaster event (e.g. an earthquake or hurricane), to classify a disaster message into several categories, in order that the message can be directed to the appropriate aid agencies. 
